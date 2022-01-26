@@ -1,0 +1,38 @@
+.box {
+  height: 120px;
+  background-color: lightblue;
+  border: 2px solid #fff;
+}
+
+.box:nth-child(2){
+  height: 100px;
+  top: -110px;
+  left: 20px;
+}
+
+.box:nth-child(3){
+  height: 80px;
+  top: -200px;
+  left: 40px;
+}
+
+.box:nth-child(4){
+  height: 60px;
+  top: -270px;
+  left: 60px;
+}
+
+.box:nth-child(5){
+  height: 40px;
+  top: -320px;
+  left: 80px;
+}
+
+.box:nth-child(6){
+  width: 20px;
+  background-color: purple;
+  height: 20px;
+  top: -350px;
+  left: 100px;
+}
+
